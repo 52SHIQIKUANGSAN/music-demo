@@ -1,3 +1,5 @@
+请参考网易云音乐API接口使用
+
 # music-demo
 
 ## Project setup
